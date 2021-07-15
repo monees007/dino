@@ -1,2 +1,2 @@
 # dino
-Classic Chromium Dico, automated with pyautogui.
+Classic Chromium Dino, automated with pyautogui.
